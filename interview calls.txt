@@ -1,0 +1,287 @@
+experince certificate
+interview 1st round ( how he will be attending the interview )
+2nd round ( how he will be attending the interview)
+salary certificates
+bank statement
+
+
+
+agenda
+
+all my interview need to be lesion ?
+9569389778 05/06/2020 mindtree oja(accentre)
+7979963900 (horizontal linx devops mintree)
+8903841465 ( devops artel interview call)
+9871119382 (shruthi job bsl placement proarh)
+7767022020 ( vartcus polaries)
+8008122334 ( lakshmi pji payrole)pan card updated
+9500048131 (sreedevi pdi software dircet) oil and gass industrey devops L2)
+8867718246 (unik hire for infosys devops )
+9711636935 (v media entienement)
+7483166822 ( (150 org sony pvt limited) (priyanka julsstuvas banglor interview) linux and devops)
+9962335093 ( tejaswi swazbk (tech mahandhra, passport)
+8076650817 (50orgnization, unify techniloy from hyderbad , apple hyderabad )
+9030719263 ( IBM hyderbad, devops mysqul) spark, python, java, agilemethodgy)i dont sent the mail radham) 
+9398887347 ( deepika zentech hyderabad devops with python)
+9398011106 (interview call need to come, adicaver hr devops enginer ansible mvn managing )
+ 
+
+mindtree interview
+how about reslese mangemt? 
+maven to build is it?
+you do only deployemnt part is it?
+you dont devolop the application?
+you just do deploy the application?
+do use java application right?
+write now your in to L2 support?
+how you work on banking finace?
+why deploying you use jenkins as cd using appachtomacat is standed application?
+cd with jenkins and standed application as appach tomcat?
+what are devops tools you have used name of that?
+in backend part any squal when anything to work on squal part?
+insit quary, join quary,update qauary?
+did you worte any insite qurey or delete quary in your support activtes?
+waht about firewell, load balancers, networking concpets.
+how block and ublock an application by using firewell or port using firewell un support port using firewell?
+have your worked on load balancers?
+chain mangemnet on deployement process?
+do you deployement process?
+how about service level agrment  (sla) issues ?
+issues like p1 p2 p3 p4 issues ?
+what was time you have to reslove p1 issues in bussines?  
+what is bcp process ( business continute plan?
+waht is the bcp process ?
+what is bcp actives?
+what is DR (disiter recovery) activites
+any thing about certificate management process?
+security pacthing you have done ?
+what is rest API ?
+
+TCS interview call
+yugadhar.
+what platfrom is it java/dotnet?
+waht is database server is it mysqul or squal server?
+how about devoplemnt methodaly is that ajal or waterfall?
+waht is sprint interwell is here? 2 week or 3 week 
+what happens to the code after 2week it will relased to producation?
+how does code propagation happines?
+deployement to which envernment ? test 
+how does production releses
+qa, staging non producation envornemt, uat 
+test, qa, 
+dev,test env,qa dep, preproducation, producation
+static code analist tool? sonarqub 
+testing tools are used? slanum testing 
+unit test tool ? J unit testing tool
+how master slaves in jenkins
+
+what is piple line you use? cicd pipeline
+
+harizone interview call
+doing deployment using jenkins right?
+their is an issue after deplyment but deployment went fine and application error application.
+their issue is with application its like performission issue or site is not perfoming well what is are the touble shorting you will do?
+you have deployed an application any envornment like qa,perf, profucation?
+their application performance issue?
+your application are all java based application?
+do you take domes all of that? what domes you will take?
+their performance issue like site is not excessable, site is went down with application afterdeploying?
+application performance issue in devops?
+you plotfrom hosted in AWS?
+in ec2 mangament consule in dashboard?
+you have work on elistic and velastic right?
+health check you envorniment alrday in eplip?
+so you want take a server out for some patrons then waht about trafic will happen to that server?
+pipline code writen code?
+how good with scripintg? what scrping you have shallscripting?
+
+Tcs interview
+so you have experince in AWS service?
+do you have any certification?
+you have ben using jenkins,git,ansible?
+do you have knownloadage cheif and puppt?
+how you used terform?
+you have jenkins used application deployment right?
+how you depoly 50 server java application in tomcat server from scrach?
+how do you install tomcat?
+you are the not part of devolopment team?
+how you create an jenkins job?
+what is jenkins pipline?
+what is different between git pull and git fech?
+how have used ansible in your aws envornment anisable playbook?
+how can you excute the playbook is execture in ec2 insatance?
+where is your artifictory?
+what is artifiactory?
+you have play book ready you need to istall splank so i want install in 10windows server and 10 linux server, how you depeloy?
+what is EIP in aws what is use of that if it is public and pravite ip is already is present?
+when we use EIP? if already have private and public ip address then what is use of EIP?
+how work on AWS system manager?
+what is cloud watch and why it is used?
+why ec2 and S3?
+how do you remove conflic in git?
+how do you fork in git respotroy?
+difference between pull and fitch git?
+what is use of hotfix, why do we create hotfix branch?	
+
+
+tuff interview
+how work on dotnet?
+what is your experince AWS?
+how you configured autoscalling in AWS?
+what is worm of t
+hreshold in autoscalling configutraion?
+how you configured autoscalling is that with terform or platfrom aws?
+what is wormup permeter?
+any configutaton permeters in Auto scalling?
+if i give auto scalling group main size of one how many ec2 instance spined up?
+what is perpose of autoscalling?
+what else resource in AWS?
+what is ploicy deffination of S3 in AWS?
+what is policy documention of S3 storage?
+what are 2/2 in Ec2 ? insatance is healthy 
+how you work on application servers? tomcat application servers
+what is mode_jk in tomcat application servers? Tomcat servlet container with web servers such as Apache
+what are api interface in tomcat ?
+which tool you have used build and management?
+you known java spring boot?
+In maven what is diffencaiton of spring boot dependence?
+java dependency in maven? mvn complie or mvn package
+maven dependency ? jar,zip and compile , build, test
+do you knwon maven depdencey?
+sentics for maven compliation?
+tell me build and management?
+what you do compieling?
+maven comple configration file? pom.xml
+explian me maven congigration file? pom.xml
+the required file to maven complie is pom.xml file is requried?
+to build on artificatory you need some configutation file?
+what is sonarqub ? code coverage, percentage of production code.
+what is local respostoy in git?
+different stages in local git respositoy? modified, staged,commit
+what is difference between git fetch and git pull? git fetch just like checking any changes in avilable in origin and git pull is git copy form the remote repostory 
+in ansible how do look at shell varbiles?
+how do configure node agent in jenkins?
+what is different between pipline job and normal job in jenkins?
+in pipline its diffencing infrasture of the code in manul 
+you can configure anything as code and put it github ?
+
+capgemini interview call?
+interoducation current company, what work you have worked in it tools you have used in it.
+under cognizant for which client you have worked ?
+is it home project. tell me the name the project name ?
+project client bank?
+you is to ping and use to infrom about build information to the devloper?
+what have used in AWS ?
+this things are doing manily or by terrform?
+i have requriment for puppet, anisable, 
+aws cloud formation with terrform ?
+ansiable
+aws cloud formaton or terrform
+docker, kubernetes, jenkins, maven, app dynamics,
+is your code is to post centrol github or bigbut?
+how you make conncation with git and github for the first time? (git remote add origin url)
+how many team nmber in your team and how many devlopers an how many are devops?
+can you tell me your project breaching stratagy?
+what are the branch are created in the local git? featue branch, realse branch, devlopment branch, hotfix branch, master branch.
+tell me branching stragy of your project?
+what is git squash ?
+can tell me about artchtecher of git ?
+the file in the staging area then it need to come from that stage to my in inshall stage to make changes?
+git revert is used?
+have hard abot webhooks in github? 
+how your jenkins jobs will be triged manuly?
+what is means devops as per your knownladages?
+what kind of pulgins you have installed in your jenkins?
+do you what inbuild veriable of jenkins ( in build veriable pf jenkins)?
+jenkins is writen in which language?
+how do work in jenkins, how jobs are created, how cicd pipeline, have you writien groovey scriping, 
+how you creted jenkins pipline?
+which kind of jenkins jobs you use to create? like freestyle, jenkins pipeline.
+how you wrote jenkins file?
+what kind command use to give in jenkins file?
+what is clean and compile in means in maven?
+what is complie maven ?
+life cycle of maven? validate, compile, test, package, intergraton test, verify, install, deploy.
+do you known POM.xml what is pom.xml, what will be their in pom.xml?
+full form pom.xml? project object?
+in jenkins var and jar will be created in whicj folder?
+is their any artifictory storage? where your storing your artificatory? like nexas? 
+is their any other tools that need to intgerated with jenkins so that our artificates go their will stored?
+nexus integration with jenkins?
+you dont have naxus in your project?
+artificatory respotroy manager?
+where you playbook will stored?
+how do you intgrate jenkins and ansible? throght ssh connecaton?
+do you create pravite key and public key in ansible?
+how do you make connection between jenkins and anible?
+public key need to be stored in jenkins where you create ?
+in jenkins where you need to add a public key ? under which folder? therir is credinal folder in jenkins and ansblie 
+their is credinal floder in jenkins and their will be a and also you need to install ansible plugin and public over ssh pulgin.
+in jenkins have configured master play?
+in jenkins master slave arcticture?
+jenkins build with perameter?
+in jenkins creation of user? how i create a user in it ? which plugin is requried to avide the users all which plugin is requried can name the name of the plugin?
+in jenkins i want a plugin which is help in creating user in jenkins ?
+you have on writen one jenkins file? 
+how does maven work achiecvilly in back ground? it will download required depencys for the first time based on project.
+from wher this depdency as are download to maven? 
+their some repo define the pom.xml?
+how many types are therir in maven repo are their depedency in maven?
+what is play book besically ?
+how many section are therir in playbook ? 
+location of host inventory of file of the ansible ? /etc/ansible/host
+ansible blue green deplyment?
+have you hard about ansible tages ?
+do you ansible tower, anbile volut ?
+have worked on anisble volt ?
+have heard about anisible galaxy ?
+have created roles in anisble ?
+do you known docker?
+explain articticher of docker ?
+what is dockerfile ?
+what different between RUN and CMD Dockerfile?
+have hard about entry point?
+tell basic differnce between entry point and CMD?
+at the run time which can be over writer CMD or Entiry point?
+
+suggestions:
+devops is introduced to do all the things automatically. devops is basically integration of with different tools, write mark demands for pipeline job for that you need to write the jenkins file that need to be stored at github.
+jenkins file is writen in a such why that sh mav complie that will create a .war file, that need to be stored in some where, for that we need to intergrete jenkins to naxus, naxus is artificate manage tool where we need to upload the artifictory, 2nd stage would be that artifactory need to upload to nexus for that you need to integrate jenkins connector, 3rd stages that once artificatoy is uploaded then you have write the docker file should also be in stack repo github repo using that artifactoy that image will be created and again the images is stored in docker registory this stage also writen in jenkins file its self.
+after all those is done, at lost you have to deploy either in tomcat envornment, kubernets , docker, this is basic thing of jenkins.
+you need to have proper information about maven as devops enginner. docker you should more technical. 
+
+
+
+
+
+
+
+
+
+
+
+why we use maven as build tool?
+why do we use maven ? to build package.
+
+
+
+
+
+
+
+
+
+
+git rebase -i head~3
+create naukari and indeed and linkin proflies?
+other interview calls?
+javascripting ?
+aws (vpc, subnets, security)?
+lamda?
+terform?
+git class?
+sonrqube?
+
+current project name?
+jenkins files?
+project with aws? 
